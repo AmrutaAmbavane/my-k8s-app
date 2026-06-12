@@ -60,7 +60,7 @@ Make sure the following tools are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-k8s-app.git
+git clone https://github.com/AmrutaAmbavane/my-k8s-app.git
 cd my-k8s-app
 ```
 
@@ -187,12 +187,5 @@ This project is designed to mirror AKS workflows. Here's how each local componen
 
 ## 🙋 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+**Amruta Ambavane**
+- GitHub: [AmrutaAmbavane](https://github.com/AmrutaAmbavane)
